@@ -1,0 +1,15 @@
+------------------------todo---------------------
+
+a log to keep track of which admin did what (added a listing, delted a listing, edited a listing)
+button to sort by latest (prob gonna need to add routes?)
+advanced user functionlaity ( manage account, change passowrd, etc)
+
+
+------------------------Done----------------------
+book rating
+sort by rating
+sort buttons 
+fix pagination removing ordering
+button to sort by latest (prob gonna need to add routes?)
+users functionality
+
